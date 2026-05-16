@@ -89,7 +89,7 @@ https://synctalk-backend-w7lj.onrender.com
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/roshankodi/synctalk.git
+git clone https://github.com/dhanyasreegopinigari-blue/Synctalk.git
 cd synctalk
 ```
 
@@ -192,9 +192,8 @@ This project helped strengthen concepts in:
 
 ## Roshan Kodi
 
-- GitHub: https://github.com/roshankodi
-- LinkedIn: https://linkedin.com/in/kodi-roshan-78858b356
-- Portfolio:  https://roshankodi.github.io/portfolio-me/
+- GitHub: https://github.com/dhanyasreegopinigari-blue
+- LinkedIn: https://www.linkedin.com/in/dhanyasree-gopinigari-694378409/
 
 ---
 

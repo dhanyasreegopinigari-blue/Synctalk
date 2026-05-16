@@ -190,7 +190,7 @@ This project helped strengthen concepts in:
 
 # 👨‍💻 Author
 
-## Roshan Kodi
+## Gopinigari Dhanya sree
 
 - GitHub: https://github.com/dhanyasreegopinigari-blue
 - LinkedIn: https://www.linkedin.com/in/dhanyasree-gopinigari-694378409/
@@ -200,5 +200,4 @@ This project helped strengthen concepts in:
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub ⭐
-
 ⭐ Star the repository to support development.
